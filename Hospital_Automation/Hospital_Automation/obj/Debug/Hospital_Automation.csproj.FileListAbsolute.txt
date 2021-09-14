@@ -1,0 +1,13 @@
+c:\users\busra\onedrive\belgeler\visual studio 2015\Projects\Hospital_Automation\Hospital_Automation\bin\Debug\Hospital_Automation.exe.config
+C:\Users\busra\Desktop\Hospital_Automation\Hospital_Automation\bin\Debug\Hospital_Automation.exe.config
+C:\Users\busra\Desktop\Hospital_Automation\Hospital_Automation\obj\Debug\Hospital_Automation.csprojResolveAssemblyReference.cache
+C:\Users\busra\Desktop\Hospital_Automation\Hospital_Automation\obj\Debug\Hospital_Automation.giris.resources
+C:\Users\busra\Desktop\Hospital_Automation\Hospital_Automation\obj\Debug\Hospital_Automation.hasta_guncelleme_silme.resources
+C:\Users\busra\Desktop\Hospital_Automation\Hospital_Automation\obj\Debug\Hospital_Automation.hasta_kaydetme_guncelleme.resources
+C:\Users\busra\Desktop\Hospital_Automation\Hospital_Automation\obj\Debug\Hospital_Automation.Properties.Resources.resources
+C:\Users\busra\Desktop\Hospital_Automation\Hospital_Automation\obj\Debug\Hospital_Automation.yetkiligirişi.resources
+C:\Users\busra\Desktop\Hospital_Automation\Hospital_Automation\obj\Debug\Hospital_Automation.csproj.GenerateResource.Cache
+C:\Users\busra\Desktop\Hospital_Automation\Hospital_Automation\bin\Debug\Hospital_Automation.exe
+C:\Users\busra\Desktop\Hospital_Automation\Hospital_Automation\bin\Debug\Hospital_Automation.pdb
+C:\Users\busra\Desktop\Hospital_Automation\Hospital_Automation\obj\Debug\Hospital_Automation.exe
+C:\Users\busra\Desktop\Hospital_Automation\Hospital_Automation\obj\Debug\Hospital_Automation.pdb
